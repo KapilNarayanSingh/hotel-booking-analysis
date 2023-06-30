@@ -76,12 +76,19 @@ Creating new column Total_members by adding adults+children+babies.
 Performed EDA and tried answering the following questions:
 
  Q1) Which hotel has more no of bookings and What is the  percentage of bookings in each hotel ?
+ 
  Q2) Hotel Wise Bookings based on Month and year also What is the trend of bookings within a month ?
+ 
  Q3) Which meal type is the  most preffered meal of customers ?
+ 
  Q4) Country Wise - Number of Bookings ?
+ 
  Q5) Which agent is making maximum Bookings ?
+ 
  Q6) Which room type is in most demand and which room type generates the  highest average daily rate?
+ 
  Q8) How long do people stay at the hotels?
+ 
  Q9) What is preferred stay length in each hotel based on weekday nights and weekend nights ?
  Q10) Which Booking is preffered with the deposite type?
  Q11) Cancellation rates in both the hotels also arival year and  lead time?
