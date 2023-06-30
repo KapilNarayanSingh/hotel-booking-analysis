@@ -124,7 +124,7 @@ Performed analysis and made following conclusions:
  12.) Arrivals in hotels increases at weekends and also the average daily rate tends to go up as month ends. 
  13.) Moslty bookings are done by couples(bookings have two adults.)
 ## Conclusion
-(1) 61% bookings are for the City hotel and 39% of bookings are for Resort hotel, therefore City Hotel is busier than Resort hotel. Also the overall average daily rate of City hotel is slightly higher than Resort hotel.
+(1) 61% bookings are for City hotel and 39% bookings are for Resort hotel, therefore City Hotel is busier than Resort hotel. Also the overall average daily rate of City hotel is slightly higher than Resort hotel.
 (2) Mostly guests stay for less than 5 days in hotel and for longer stays Resort hotel is preferred.
 (3) Most of the guests came from european countries, with most of guests coming from Portugal.
 (4) It's clearly seen that the most people preferred room is Type A, . Also, the average daily rate of type A rooms seems to be less. But, those whose average daily rate is higher i.e.(Type C,G,F,H) it's seen that preference is also less, hotel need to improve on this.
